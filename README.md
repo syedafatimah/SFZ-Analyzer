@@ -6,7 +6,7 @@ Sorting analyzer which sorts the array by defining the size of array and speed o
 
 
 ### Click here for live demo
-https://syedafatimah.github.io/SFZ-Sorting-Analyzer/
+https://syedafatimah.github.io/SFZ-Analyzer/
 
 
 ## Sorting Algorithms Used
